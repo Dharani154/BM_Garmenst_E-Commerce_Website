@@ -1,4 +1,4 @@
-# Furniture E-commerce React App
+#E-commerce React App
 
 This is a furniture e-commerce application built using React. It allows visitors to discover a vast range of products, search for them, create accounts, add products to the wishlist or cart, make orders (currently relying on Cash on Delivery), and more.
 
@@ -93,3 +93,4 @@ Feel free to contribute to the development of this project. Fork the repository,
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
